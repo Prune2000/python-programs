@@ -1,2 +1,2 @@
 # python-programs
-All my programs developed while learning Python
+Few infosec programs I developed
